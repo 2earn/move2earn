@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#countdown ul {
+    padding-left: 0px !important;
+}
